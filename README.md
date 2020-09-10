@@ -14,7 +14,7 @@ A note taking app made possible through heroku. Implementing all of the front en
 ## Installation
 None, just visit: https://express-note-taker-1.herokuapp.com/
 ## Usage
-Clicking on the note they want to edit or add a new one and save when done with the floppy disk icon on the top right corner.
+Click on the note you would want to edit or add a new one and save when done with the floppy disk icon on the top right corner. Delete with the trashcan icon.
 ## Contributors
 None.
 ## License
